@@ -54,9 +54,9 @@
 
 2. Menjalankan Program
 
-    Jalankan skrip dengan perintah berikut:
+    Jalankan script dengan perintah berikut:
 
-    python Capstone_Project_Module1.py
+    python Capstone_Module1.py
 
 3. Login
 
@@ -87,7 +87,7 @@
 ## Flowchart
 ## Main Menu
 
-![alt text](<Flowchart Main Menu-1.png>)  
+![alt text](<Flowchart Main Menu.png>)  
 
 ## Struktur Data
 
